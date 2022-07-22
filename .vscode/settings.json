@@ -1,0 +1,4 @@
+{
+    "omnisharp.useModernNet": false,
+    "omnisharp.sdkVersion": "netcoreapp3.1"
+}
